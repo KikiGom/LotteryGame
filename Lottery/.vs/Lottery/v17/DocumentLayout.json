@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev_\\Projekte\\Games\\LotteryGame\\Lottery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54CE46-F205-40F3-90A4-63540B7EA299}|Lottery\\Lottery.vcxproj|C:\\Dev_\\Projekte\\Games\\LotteryGame\\Lottery\\Lottery\\Lottery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B54CE46-F205-40F3-90A4-63540B7EA299}|Lottery\\Lottery.vcxproj|solutionrelative:Lottery\\Lottery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lottery.cpp",
+              "DocumentMoniker": "C:\\Dev_\\Projekte\\Games\\LotteryGame\\Lottery\\Lottery\\Lottery.cpp",
+              "RelativeDocumentMoniker": "Lottery\\Lottery.cpp",
+              "ToolTip": "C:\\Dev_\\Projekte\\Games\\LotteryGame\\Lottery\\Lottery\\Lottery.cpp",
+              "RelativeToolTip": "Lottery\\Lottery.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-28T19:35:00.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
